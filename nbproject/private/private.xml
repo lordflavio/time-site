@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Flavio%20P/Projetos%20PHP/site-time/resources/views/Admin/Home/newEdit.blade.php</file>
+            <file>file:/E:/Flavio%20P/Projetos%20PHP/site-time/app/Http/Controllers/System/NewsController.php</file>
+            <file>file:/E:/Flavio%20P/Projetos%20PHP/site-time/app/Models/News.php</file>
+            <file>file:/E:/Flavio%20P/Projetos%20PHP/site-time/resources/views/Admin/Game/new.blade.php</file>
+            <file>file:/E:/Flavio%20P/Projetos%20PHP/site-time/routes/web.php</file>
+            <file>file:/E:/Flavio%20P/Projetos%20PHP/site-time/app/Http/Controllers/System/PlayerController.php</file>
+            <file>file:/E:/Flavio%20P/Projetos%20PHP/site-time/resources/views/Admin/Home/home.blade.php</file>
+            <file>file:/E:/Flavio%20P/Projetos%20PHP/site-time/app/Http/Controllers/HomeController.php</file>
+            <file>file:/E:/Flavio%20P/Projetos%20PHP/site-time/app/Http/Controllers/System/GamesController.php</file>
+        </group>
+    </open-files>
+</project-private>
